@@ -11,12 +11,6 @@ The [Voice Interaction API][1] provides an interface to allow an application
 to use the designated Voice Interaction Service on a device to interact with
 the user hands free.
 
-[1]: https://developer.android.com/reference/android/app/VoiceInteractor.html
-Pre-requisites
---------------
-
-- Android SDK v23
-- Android Build Tools v21.1.1
 
 Screenshots
 -------------
@@ -29,17 +23,6 @@ Getting Started
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
-Support
--------
-
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
-
-If you've found an error in this sample, please file an issue:
-https://github.com/googlesamples/android-Camera2Basic
-
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
 
 License
 -------
