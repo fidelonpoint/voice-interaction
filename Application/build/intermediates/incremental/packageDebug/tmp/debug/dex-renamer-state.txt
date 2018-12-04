@@ -1,0 +1,7 @@
+#Thu Nov 15 10:54:03 WAT 2018
+base.0=/home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/build/intermediates/transforms/dexMerger/debug/1
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/build/intermediates/transforms/dexMerger/debug/0

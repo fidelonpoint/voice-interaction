@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:3:1-43:12
+INJECTED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:3:1-43:12
+INJECTED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:3:1-43:12
+MERGED from [com.android.support:support-v13:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/a20ac5657e022816d7cf9771a78c769d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/5ff37ebfb229ff117a540957892d5c11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/db028e1f50f488a1c7f9d2e6bfef8433/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/7384be2aa32ddc87c56e702527774bf8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/55212557b5f63c6bd597c1a86f7f716f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/87393250d753abd787d06f2c2f527a06/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/1381a53c054a72eef458d67b5343837e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2c7cf7b7f4a16818fdbf1eb636e39121/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/ee9d04d0877ae92b081c138e21603473/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:3:1-43:12
+INJECTED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:3:1-43:12
+	package
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:4:5-46
+	android:versionName
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:10:22-78
+application
+ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:12:5-41:19
+	android:label
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:16:9-45
+activity#com.example.android.voicecamera.CameraActivity
+ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:19:13-45
+	android:configChanges
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:20:13-74
+	android:name
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:18:13-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:23:27-74
+activity#com.example.android.voicecamera.TakePictureActivity
+ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:26:9-40:20
+	android:label
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:27:13-79
+intent-filter#action:name:android.media.action.IMAGE_CAPTURE+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.VOICE
+ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:29:13-34:29
+action#android.media.action.IMAGE_CAPTURE
+ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:30:25-74
+category#android.intent.category.DEFAULT
+ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:32:27-73
+category#android.intent.category.VOICE
+ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:33:17-74
+	android:name
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:33:27-71
+intent-filter#action:name:android.media.action.STILL_IMAGE_CAMERA+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.VOICE
+ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:35:13-39:29
+action#android.media.action.STILL_IMAGE_CAMERA
+ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:36:17-82
+	android:name
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml:36:25-79
+uses-sdk
+INJECTED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml
+INJECTED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/a20ac5657e022816d7cf9771a78c769d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/a20ac5657e022816d7cf9771a78c769d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/5ff37ebfb229ff117a540957892d5c11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/5ff37ebfb229ff117a540957892d5c11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/db028e1f50f488a1c7f9d2e6bfef8433/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/db028e1f50f488a1c7f9d2e6bfef8433/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/7384be2aa32ddc87c56e702527774bf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/7384be2aa32ddc87c56e702527774bf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/55212557b5f63c6bd597c1a86f7f716f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/55212557b5f63c6bd597c1a86f7f716f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/87393250d753abd787d06f2c2f527a06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/87393250d753abd787d06f2c2f527a06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/1381a53c054a72eef458d67b5343837e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/1381a53c054a72eef458d67b5343837e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2c7cf7b7f4a16818fdbf1eb636e39121/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2c7cf7b7f4a16818fdbf1eb636e39121/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/ee9d04d0877ae92b081c138e21603473/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/kyuubi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/ee9d04d0877ae92b081c138e21603473/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml
+INJECTED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml
+		ADDED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/src/main/AndroidManifest.xml

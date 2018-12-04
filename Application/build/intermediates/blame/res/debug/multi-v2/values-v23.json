@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/home/kyuubi/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/db028e1f50f488a1c7f9d2e6bfef8433/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    }
+                }
+            ]
+        }
+    ]
+}

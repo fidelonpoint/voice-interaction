@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Nov 15 10:54:03 WAT 2018
+1.base=/home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/build/intermediates/transforms/dexMerger/debug/1
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/home/kyuubi/Documents/dev/copied/io2015-codelabs/voice-interaction-api/voice-interaction-end/Application/build/intermediates/transforms/dexMerger/debug/0
+1.path=classes.dex
